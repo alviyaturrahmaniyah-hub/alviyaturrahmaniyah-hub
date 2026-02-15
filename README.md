@@ -7,7 +7,7 @@ Saya tertarik pada:
 - Pemrograman (Python dan R)
 - Machine Learning / Statistik Terapan
   
-Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](www.linkedin.com/in/alviyatur-rahmaniyah-942321281)ku ya! <br>
+Jika kamu tertarik untuk berkenalan denganku, silahkan ikuti akun [Linkedin](https://www.linkedin.com/in/alviyatur-rahmaniyah)ku ya! <br>
 
 <!--
 **alviyaturrahmaniyah-hub/alviyaturrahmaniyah-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
